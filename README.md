@@ -1,6 +1,6 @@
 <center><h3 align="center">Electrical & Electronics Engineer - Developer - Trader</h3>
 
-- 🌱 I’m currently learning **VueJS, React, NodeJS and Flutter**
+- 💻 I’m currently learning **VueJS, React, NodeJS and Flutter --
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
