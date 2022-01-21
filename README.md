@@ -1,4 +1,4 @@
-<h3 align="left">Electrical & Electronics Engineer - Developer - Trader</h3>
+<h2 align="left">Electrical & Electronics Engineer - Developer - Trader</h2>
 
 - 💻 I’m currently learning **VueJS, React, NodeJS and Flutter --
 
