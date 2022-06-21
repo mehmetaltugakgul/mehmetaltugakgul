@@ -1,5 +1,8 @@
 <h2 align="left">Electrical & Electronics Engineer - Developer - Trader</h2>
 
+Electrical - Electronics / Software Engineer. I was born in 1995/Ankara. Graduated from Master of Business Administration(MBA). I continue Management Information Systems as the second university. I work as a Software Engineer in the Product Strategy department of Papilon Savunma. I am an e-resident of Estonia since 2021.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/altugakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="altugakgul" height="30" width="40" /></a>
