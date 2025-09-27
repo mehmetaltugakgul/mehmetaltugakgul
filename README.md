@@ -1,6 +1,6 @@
 <h2 align="left">Electrical & Electronics Engineer - Fullstack Software Engineer - Cloud Solutions Architect</h2>
 
-Electrical - Electronics / Software Engineer. I was born in 1995/Ankara. Graduated from Master of Business Administration(MBA). I continue Management Information Systems as the second university. I work as a Cloud Solutions Architect @TurkTelekom. I am an e-resident of Estonia since 2021.
+Electrical - Electronics / Software Engineer. I was born in 1995/Ankara. Graduated from Master of Business Administration(MBA) and MIS as Second BSc. I work as a Cloud Solutions Architect @TurkTelekom. I am an e-resident of Estonia since 2021.
 
 
 <h3 align="left">Connect with me:</h3>
