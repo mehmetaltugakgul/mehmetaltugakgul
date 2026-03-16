@@ -5,6 +5,6 @@ Electrical - Electronics / Software Engineer. I was born in 1995/Ankara. Graduat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/altugakgul" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="altugakgul" height="30" width="40" /></a>
+<a href="https://x.com/altugakgul" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="altugakgul" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mehmetaltugakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetaltugakgul" height="30" width="40" /></a>
 </p>
